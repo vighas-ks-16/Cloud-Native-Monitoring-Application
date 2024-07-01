@@ -13,11 +13,15 @@ Cloud Native app on K8S to monitor system resources using python
 ### PROJECT OVERVIEW :
 
 1. Creating a Monitoring Application in Python using Flask and psutil
+
 2. Running the Python App locally.
    
-3  Creating Dockerfile, Building DockerImage, Running Docker Container
+3.  Creating Dockerfile, Building DockerImage, Running Docker Container
+
 4. Create ECR repository using Python Boto3 and pushing Docker Image to ECR
+ 
 5. Usage of Kubernetes and Creating EKS cluster and Nodegroups
+   
 6. Create Kubernetes Deployments and Services using Python
 
 
